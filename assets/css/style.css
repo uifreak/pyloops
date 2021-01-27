@@ -31,7 +31,7 @@ label {
 #head {
     background: #181015 url( ../images/bg_header.jpg) no-repeat;
     background-size: cover;
-    min-height: 520px;
+    min-height: 700px;
     text-align: center;
     padding-top: 240px;
     color: white;
@@ -142,7 +142,7 @@ label {
 .h-caption i {
     display: block;
     font-size: 54px;
-    color: #ee0c45;
+    color: #DF4E20;
     margin-bottom: 36px;
 }
 
@@ -164,7 +164,7 @@ label {
 .page-title {
     margin-top: 20px;
     font-weight: 300;
-    color: #ee0c45;
+    color: #DF4E20;
 }
 
 .text-muted {
@@ -432,7 +432,7 @@ background:#00bfff;
 color:#fff;
 }
 .iconColor .fa{
-color: #ee0c45;
+color: #DF4E20;
 }
 
 .portfolio-items article img {
@@ -521,17 +521,17 @@ color: #ee0c45;
 */
 i {
     vertical-align: middle;
-    color: #F50057;
+    color: #DF4E20;
 }
 
 .navbar-inverse .navbar-nav > .active > a {
     /* font-size: 18px;
-    background-color: #F50057;
+    background-color: #DF4E20;
     font-weight: 800; */
 
     font-size: 18px;
     font-weight: 800;
-    border: 2px solid #F50057;
+    border: 2px solid #DF4E20;
     padding: 8px 15px !important;
     border-radius: 12px;
 }
@@ -551,8 +551,13 @@ input {
     padding-top: 50px;
 }
 
-header {
+/* header {
     margin-top: 100px;
+} */
+
+.py-logo {
+    width: 160px;
+    margin-top: 0 !important;
 }
 
 .services img{
